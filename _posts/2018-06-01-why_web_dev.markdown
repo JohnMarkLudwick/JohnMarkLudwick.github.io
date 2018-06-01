@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why | Web | Dev"
-date:       2018-06-01 16:17:24 +0000
+date:       2018-06-01 12:17:25 -0400
 permalink:  why_web_dev
 ---
 
